@@ -1,0 +1,1510 @@
+{
+    "status": 0,
+    "data": {
+        "userInfo": {
+            "identifier": "A7B7055A-2800-D2D8-D64A-45CE922A785A",
+            "platform": "adr",
+            "uid": "868897026376251",
+            "vid": "60001170",
+            "gid": "A7B7055A-2800-D2D8-D64A-45CE922A785A",
+            "userName": "",
+            "userId": -1,
+            "phoneType": "Letv X501",
+            "pid": "10010",
+            "cid": "C",
+            "permanentLocation": ""
+        },
+        "businessHistoriesMap": {
+            "HOTEL": {
+                "pvList": [
+                    {
+                        "actionTime": 1498834341960,
+                        "pvedHotels": [
+                            "datong_2002",
+                            "datong_2972",
+                            "datong_2472",
+                            "datong_2411",
+                            "datong_2290",
+                            "datong_3141",
+                            "datong_2217",
+                            "datong_2010",
+                            "datong_2502",
+                            "datong_3090",
+                            "datong_2397",
+                            "datong_9",
+                            "datong_10",
+                            "datong_2046",
+                            "datong_2016",
+                            "datong_2931",
+                            "datong_2748",
+                            "datong_2",
+                            "datong_4",
+                            "datong_2469"
+                        ],
+                        "checkInCityCode": "datong",
+                        "checkInCityName": "大同",
+                        "checkInDate": "20170630",
+                        "checkOutDate": "20170701",
+                        "query": "",
+                        "userCoordinate": {
+                            "x": 41.158142,
+                            "y": 114.71673,
+                            "z": "NaN"
+                        },
+                        "userCityName": "张家口"
+                    },
+                    {
+                        "actionTime": 1498834371648,
+                        "pvedHotels": [
+                            "datong_2415",
+                            "datong_2001",
+                            "datong_2487",
+                            "datong_2598",
+                            "datong_2944",
+                            "datong_2363",
+                            "datong_2504",
+                            "datong_2458",
+                            "datong_3073",
+                            "datong_7",
+                            "datong_3083",
+                            "datong_2067",
+                            "datong_3009",
+                            "datong_2433",
+                            "datong_2336",
+                            "datong_2971",
+                            "datong_3233",
+                            "datong_2072",
+                            "datong_2759",
+                            "datong_2312"
+                        ],
+                        "checkInCityCode": "datong",
+                        "checkInCityName": "大同",
+                        "checkInDate": "20170630",
+                        "checkOutDate": "20170701",
+                        "query": "",
+                        "userCoordinate": {
+                            "x": 41.158142,
+                            "y": 114.71673,
+                            "z": "NaN"
+                        },
+                        "userCityName": "张家口"
+                    },
+                    {
+                        "actionTime": 1498834409634,
+                        "pvedHotels": [
+                            "datong_3109",
+                            "datong_2404",
+                            "datong_2474",
+                            "datong_2405",
+                            "datong_2862",
+                            "datong_2402",
+                            "datong_3142",
+                            "datong_2412",
+                            "datong_2400",
+                            "datong_3000",
+                            "datong_2432",
+                            "datong_3179",
+                            "datong_2500",
+                            "datong_2440",
+                            "datong_2299",
+                            "datong_2241",
+                            "datong_2437",
+                            "datong_2434",
+                            "datong_2087",
+                            "datong_3118"
+                        ],
+                        "checkInCityCode": "datong",
+                        "checkInCityName": "大同",
+                        "checkInDate": "20170630",
+                        "checkOutDate": "20170701",
+                        "query": "",
+                        "userCoordinate": {
+                            "x": 41.158142,
+                            "y": 114.71673,
+                            "z": "NaN"
+                        },
+                        "userCityName": "张家口"
+                    },
+                    {
+                        "actionTime": 1498834431494,
+                        "pvedHotels": [
+                            "datong_2509",
+                            "datong_3145",
+                            "datong_3247",
+                            "datong_2482",
+                            "datong_2484",
+                            "datong_3124",
+                            "datong_2506",
+                            "datong_2524",
+                            "datong_2969",
+                            "datong_3324",
+                            "datong_2447",
+                            "datong_2429",
+                            "datong_3016",
+                            "datong_2422",
+                            "datong_3297",
+                            "datong_2081",
+                            "datong_1",
+                            "datong_2466",
+                            "datong_3",
+                            "datong_2478"
+                        ],
+                        "checkInCityCode": "datong",
+                        "checkInCityName": "大同",
+                        "checkInDate": "20170630",
+                        "checkOutDate": "20170701",
+                        "query": "",
+                        "userCoordinate": {
+                            "x": 41.158142,
+                            "y": 114.71673,
+                            "z": "NaN"
+                        },
+                        "userCityName": "张家口"
+                    },
+                    {
+                        "actionTime": 1498834478067,
+                        "pvedHotels": [
+                            "datong_2889",
+                            "datong_3223",
+                            "datong_2940",
+                            "datong_2875",
+                            "datong_2536",
+                            "datong_2997",
+                            "datong_2535",
+                            "datong_3462",
+                            "datong_2562",
+                            "datong_3197",
+                            "datong_2991",
+                            "datong_3296",
+                            "datong_3254",
+                            "datong_2932",
+                            "datong_3078"
+                        ],
+                        "checkInCityCode": "datong",
+                        "checkInCityName": "大同",
+                        "checkInDate": "20170630",
+                        "checkOutDate": "20170701",
+                        "query": "大同县",
+                        "userCoordinate": {
+                            "x": 41.158142,
+                            "y": 114.71673,
+                            "z": "NaN"
+                        },
+                        "userCityName": "张家口"
+                    }
+                ],
+                "clickList": [
+                    {
+                        "actionTime": 1498834405143,
+                        "hotelSeq": "datong_2001",
+                        "cityName": "大同",
+                        "checkInDate": "20170630",
+                        "checkOutDate": "20170701",
+                        "score": 4.6,
+                        "stars": "FIVE",
+                        "level": "four",
+                        "type": [
+                            "BEST_HOTEL",
+                            "BUSINESS_HOTEL"
+                        ],
+                        "busi": "华严寺",
+                        "brand": "",
+                        "price": -1.0,
+                        "userCoordinate": null,
+                        "distance": -1.0,
+                        "userCityName": "张家口"
+                    }
+                ],
+                "orderList": [],
+                "favoritesList": [],
+                "pvedList": [
+                    {
+                        "actionTime": 1498834341960,
+                        "pvedHotels": [
+                            "datong_2002",
+                            "datong_2972",
+                            "datong_2472",
+                            "datong_2411",
+                            "datong_2290",
+                            "datong_3141",
+                            "datong_2217",
+                            "datong_2010",
+                            "datong_2502",
+                            "datong_3090",
+                            "datong_2397",
+                            "datong_9",
+                            "datong_10",
+                            "datong_2046",
+                            "datong_2016",
+                            "datong_2931",
+                            "datong_2748",
+                            "datong_2",
+                            "datong_4",
+                            "datong_2469"
+                        ],
+                        "checkInCityCode": "datong",
+                        "checkInCityName": "大同",
+                        "checkInDate": "20170630",
+                        "checkOutDate": "20170701",
+                        "query": "",
+                        "userCoordinate": {
+                            "x": 41.158142,
+                            "y": 114.71673,
+                            "z": "NaN"
+                        },
+                        "userCityName": "张家口"
+                    },
+                    {
+                        "actionTime": 1498834371648,
+                        "pvedHotels": [
+                            "datong_2415",
+                            "datong_2001",
+                            "datong_2487",
+                            "datong_2598",
+                            "datong_2944",
+                            "datong_2363",
+                            "datong_2504",
+                            "datong_2458",
+                            "datong_3073",
+                            "datong_7",
+                            "datong_3083",
+                            "datong_2067",
+                            "datong_3009",
+                            "datong_2433",
+                            "datong_2336",
+                            "datong_2971",
+                            "datong_3233",
+                            "datong_2072",
+                            "datong_2759",
+                            "datong_2312"
+                        ],
+                        "checkInCityCode": "datong",
+                        "checkInCityName": "大同",
+                        "checkInDate": "20170630",
+                        "checkOutDate": "20170701",
+                        "query": "",
+                        "userCoordinate": {
+                            "x": 41.158142,
+                            "y": 114.71673,
+                            "z": "NaN"
+                        },
+                        "userCityName": "张家口"
+                    },
+                    {
+                        "actionTime": 1498834409634,
+                        "pvedHotels": [
+                            "datong_3109",
+                            "datong_2404",
+                            "datong_2474",
+                            "datong_2405",
+                            "datong_2862",
+                            "datong_2402",
+                            "datong_3142",
+                            "datong_2412",
+                            "datong_2400",
+                            "datong_3000",
+                            "datong_2432",
+                            "datong_3179",
+                            "datong_2500",
+                            "datong_2440",
+                            "datong_2299",
+                            "datong_2241",
+                            "datong_2437",
+                            "datong_2434",
+                            "datong_2087",
+                            "datong_3118"
+                        ],
+                        "checkInCityCode": "datong",
+                        "checkInCityName": "大同",
+                        "checkInDate": "20170630",
+                        "checkOutDate": "20170701",
+                        "query": "",
+                        "userCoordinate": {
+                            "x": 41.158142,
+                            "y": 114.71673,
+                            "z": "NaN"
+                        },
+                        "userCityName": "张家口"
+                    },
+                    {
+                        "actionTime": 1498834431494,
+                        "pvedHotels": [
+                            "datong_2509",
+                            "datong_3145",
+                            "datong_3247",
+                            "datong_2482",
+                            "datong_2484",
+                            "datong_3124",
+                            "datong_2506",
+                            "datong_2524",
+                            "datong_2969",
+                            "datong_3324",
+                            "datong_2447",
+                            "datong_2429",
+                            "datong_3016",
+                            "datong_2422",
+                            "datong_3297",
+                            "datong_2081",
+                            "datong_1",
+                            "datong_2466",
+                            "datong_3",
+                            "datong_2478"
+                        ],
+                        "checkInCityCode": "datong",
+                        "checkInCityName": "大同",
+                        "checkInDate": "20170630",
+                        "checkOutDate": "20170701",
+                        "query": "",
+                        "userCoordinate": {
+                            "x": 41.158142,
+                            "y": 114.71673,
+                            "z": "NaN"
+                        },
+                        "userCityName": "张家口"
+                    },
+                    {
+                        "actionTime": 1498834478067,
+                        "pvedHotels": [
+                            "datong_2889",
+                            "datong_3223",
+                            "datong_2940",
+                            "datong_2875",
+                            "datong_2536",
+                            "datong_2997",
+                            "datong_2535",
+                            "datong_3462",
+                            "datong_2562",
+                            "datong_3197",
+                            "datong_2991",
+                            "datong_3296",
+                            "datong_3254",
+                            "datong_2932",
+                            "datong_3078"
+                        ],
+                        "checkInCityCode": "datong",
+                        "checkInCityName": "大同",
+                        "checkInDate": "20170630",
+                        "checkOutDate": "20170701",
+                        "query": "大同县",
+                        "userCoordinate": {
+                            "x": 41.158142,
+                            "y": 114.71673,
+                            "z": "NaN"
+                        },
+                        "userCityName": "张家口"
+                    }
+                ],
+                "clickedList": [
+                    {
+                        "actionTime": 1498834405143,
+                        "hotelSeq": "datong_2001",
+                        "cityName": "大同",
+                        "checkInDate": "20170630",
+                        "checkOutDate": "20170701",
+                        "score": 4.6,
+                        "stars": "FIVE",
+                        "level": "four",
+                        "type": [
+                            "BEST_HOTEL",
+                            "BUSINESS_HOTEL"
+                        ],
+                        "busi": "华严寺",
+                        "brand": "",
+                        "price": -1.0,
+                        "userCoordinate": null,
+                        "distance": -1.0,
+                        "userCityName": "张家口"
+                    }
+                ],
+                "orderedList": [],
+                "bookedList": null,
+                "historyLists": [
+                    [
+                        {
+                            "actionTime": 1498834341960,
+                            "pvedHotels": [
+                                "datong_2002",
+                                "datong_2972",
+                                "datong_2472",
+                                "datong_2411",
+                                "datong_2290",
+                                "datong_3141",
+                                "datong_2217",
+                                "datong_2010",
+                                "datong_2502",
+                                "datong_3090",
+                                "datong_2397",
+                                "datong_9",
+                                "datong_10",
+                                "datong_2046",
+                                "datong_2016",
+                                "datong_2931",
+                                "datong_2748",
+                                "datong_2",
+                                "datong_4",
+                                "datong_2469"
+                            ],
+                            "checkInCityCode": "datong",
+                            "checkInCityName": "大同",
+                            "checkInDate": "20170630",
+                            "checkOutDate": "20170701",
+                            "query": "",
+                            "userCoordinate": {
+                                "x": 41.158142,
+                                "y": 114.71673,
+                                "z": "NaN"
+                            },
+                            "userCityName": "张家口"
+                        },
+                        {
+                            "actionTime": 1498834371648,
+                            "pvedHotels": [
+                                "datong_2415",
+                                "datong_2001",
+                                "datong_2487",
+                                "datong_2598",
+                                "datong_2944",
+                                "datong_2363",
+                                "datong_2504",
+                                "datong_2458",
+                                "datong_3073",
+                                "datong_7",
+                                "datong_3083",
+                                "datong_2067",
+                                "datong_3009",
+                                "datong_2433",
+                                "datong_2336",
+                                "datong_2971",
+                                "datong_3233",
+                                "datong_2072",
+                                "datong_2759",
+                                "datong_2312"
+                            ],
+                            "checkInCityCode": "datong",
+                            "checkInCityName": "大同",
+                            "checkInDate": "20170630",
+                            "checkOutDate": "20170701",
+                            "query": "",
+                            "userCoordinate": {
+                                "x": 41.158142,
+                                "y": 114.71673,
+                                "z": "NaN"
+                            },
+                            "userCityName": "张家口"
+                        },
+                        {
+                            "actionTime": 1498834409634,
+                            "pvedHotels": [
+                                "datong_3109",
+                                "datong_2404",
+                                "datong_2474",
+                                "datong_2405",
+                                "datong_2862",
+                                "datong_2402",
+                                "datong_3142",
+                                "datong_2412",
+                                "datong_2400",
+                                "datong_3000",
+                                "datong_2432",
+                                "datong_3179",
+                                "datong_2500",
+                                "datong_2440",
+                                "datong_2299",
+                                "datong_2241",
+                                "datong_2437",
+                                "datong_2434",
+                                "datong_2087",
+                                "datong_3118"
+                            ],
+                            "checkInCityCode": "datong",
+                            "checkInCityName": "大同",
+                            "checkInDate": "20170630",
+                            "checkOutDate": "20170701",
+                            "query": "",
+                            "userCoordinate": {
+                                "x": 41.158142,
+                                "y": 114.71673,
+                                "z": "NaN"
+                            },
+                            "userCityName": "张家口"
+                        },
+                        {
+                            "actionTime": 1498834431494,
+                            "pvedHotels": [
+                                "datong_2509",
+                                "datong_3145",
+                                "datong_3247",
+                                "datong_2482",
+                                "datong_2484",
+                                "datong_3124",
+                                "datong_2506",
+                                "datong_2524",
+                                "datong_2969",
+                                "datong_3324",
+                                "datong_2447",
+                                "datong_2429",
+                                "datong_3016",
+                                "datong_2422",
+                                "datong_3297",
+                                "datong_2081",
+                                "datong_1",
+                                "datong_2466",
+                                "datong_3",
+                                "datong_2478"
+                            ],
+                            "checkInCityCode": "datong",
+                            "checkInCityName": "大同",
+                            "checkInDate": "20170630",
+                            "checkOutDate": "20170701",
+                            "query": "",
+                            "userCoordinate": {
+                                "x": 41.158142,
+                                "y": 114.71673,
+                                "z": "NaN"
+                            },
+                            "userCityName": "张家口"
+                        },
+                        {
+                            "actionTime": 1498834478067,
+                            "pvedHotels": [
+                                "datong_2889",
+                                "datong_3223",
+                                "datong_2940",
+                                "datong_2875",
+                                "datong_2536",
+                                "datong_2997",
+                                "datong_2535",
+                                "datong_3462",
+                                "datong_2562",
+                                "datong_3197",
+                                "datong_2991",
+                                "datong_3296",
+                                "datong_3254",
+                                "datong_2932",
+                                "datong_3078"
+                            ],
+                            "checkInCityCode": "datong",
+                            "checkInCityName": "大同",
+                            "checkInDate": "20170630",
+                            "checkOutDate": "20170701",
+                            "query": "大同县",
+                            "userCoordinate": {
+                                "x": 41.158142,
+                                "y": 114.71673,
+                                "z": "NaN"
+                            },
+                            "userCityName": "张家口"
+                        }
+                    ],
+                    [
+                        {
+                            "actionTime": 1498834405143,
+                            "hotelSeq": "datong_2001",
+                            "cityName": "大同",
+                            "checkInDate": "20170630",
+                            "checkOutDate": "20170701",
+                            "score": 4.6,
+                            "stars": "FIVE",
+                            "level": "four",
+                            "type": [
+                                "BEST_HOTEL",
+                                "BUSINESS_HOTEL"
+                            ],
+                            "busi": "华严寺",
+                            "brand": "",
+                            "price": -1.0,
+                            "userCoordinate": null,
+                            "distance": -1.0,
+                            "userCityName": "张家口"
+                        }
+                    ],
+                    null,
+                    [],
+                    []
+                ],
+                "empty": false
+            },
+            "VACATION": {
+                "pvList": [
+                    {
+                        "actionTime": 1498834443000,
+                        "depCityName": "张家口",
+                        "query": "大同一日游",
+                        "currentCityName": "张家口",
+                        "userCityName": "张家口"
+                    },
+                    {
+                        "actionTime": 1498834460000,
+                        "depCityName": "张家口",
+                        "query": "大同一日游",
+                        "currentCityName": "张家口",
+                        "userCityName": "张家口"
+                    }
+                ],
+                "clickList": [],
+                "orderList": [],
+                "favoritesList": [],
+                "pvedList": [
+                    {
+                        "actionTime": 1498834443000,
+                        "depCityName": "张家口",
+                        "query": "大同一日游",
+                        "currentCityName": "张家口",
+                        "userCityName": "张家口"
+                    },
+                    {
+                        "actionTime": 1498834460000,
+                        "depCityName": "张家口",
+                        "query": "大同一日游",
+                        "currentCityName": "张家口",
+                        "userCityName": "张家口"
+                    }
+                ],
+                "clickedList": [],
+                "orderedList": [],
+                "bookedList": null,
+                "historyLists": [
+                    [
+                        {
+                            "actionTime": 1498834443000,
+                            "depCityName": "张家口",
+                            "query": "大同一日游",
+                            "currentCityName": "张家口",
+                            "userCityName": "张家口"
+                        },
+                        {
+                            "actionTime": 1498834460000,
+                            "depCityName": "张家口",
+                            "query": "大同一日游",
+                            "currentCityName": "张家口",
+                            "userCityName": "张家口"
+                        }
+                    ],
+                    [],
+                    null,
+                    [],
+                    []
+                ],
+                "empty": false
+            },
+            "TICKET": {
+                "pvList": [
+                    {
+                        "actionTime": 1498834238600,
+                        "keyword": "大同",
+                        "sourceName": "a_sy_search_menpiao_35",
+                        "currentName": "ticket_searchlist",
+                        "sightList": null,
+                        "currentCityName": "张家口",
+                        "queryCityName": "北京",
+                        "userCoordinate": {
+                            "x": 41.158142,
+                            "y": 114.71673,
+                            "z": "NaN"
+                        },
+                        "userCityName": "张家口"
+                    },
+                    {
+                        "actionTime": 1498834498000,
+                        "keyword": "亲子",
+                        "sourceName": "suggestion",
+                        "currentName": "ticket_newMoreList",
+                        "sightList": [
+                            {
+                                "sightId": 8246,
+                                "name": "云冈石窟",
+                                "city": "大同",
+                                "address": "山西省大同市城西约16公里的武州山南麓",
+                                "level": "5A",
+                                "marketPrice": 20.0,
+                                "qunarPrice": 125.0
+                            },
+                            {
+                                "sightId": 192530,
+                                "name": "法华寺",
+                                "city": "大同",
+                                "address": "山西省大同市城区和阳街",
+                                "level": "0A",
+                                "marketPrice": 20.0,
+                                "qunarPrice": 15.0
+                            },
+                            {
+                                "sightId": 192400,
+                                "name": "大同关帝庙",
+                                "city": "大同",
+                                "address": "山西省大同市城区鼓楼东街",
+                                "level": "0A",
+                                "marketPrice": 30.0,
+                                "qunarPrice": 20.0
+                            },
+                            {
+                                "sightId": 12965,
+                                "name": "雁门关",
+                                "city": "忻州",
+                                "address": "山西省忻州市代县雁门关景区",
+                                "level": "4A",
+                                "marketPrice": 90.0,
+                                "qunarPrice": 72.0
+                            },
+                            {
+                                "sightId": 4223,
+                                "name": "小五台金河",
+                                "city": "张家口",
+                                "address": "河北省张家口市蔚县常宁乡西金河口村",
+                                "level": "4A",
+                                "marketPrice": 78.0,
+                                "qunarPrice": 68.0
+                            },
+                            {
+                                "sightId": 4830,
+                                "name": "白石山世界地质公园",
+                                "city": "保定",
+                                "address": "河北省保定市涞源县城阁院路",
+                                "level": "5A",
+                                "marketPrice": 150.0,
+                                "qunarPrice": 140.0
+                            },
+                            {
+                                "sightId": 33713,
+                                "name": "蒙古文化风情园",
+                                "city": "呼和浩特",
+                                "address": "内蒙古省呼和浩特市玉泉区昭君路3公里处",
+                                "level": "0A",
+                                "marketPrice": 50.0,
+                                "qunarPrice": 59.0
+                            },
+                            {
+                                "sightId": 17848,
+                                "name": "万年冰洞",
+                                "city": "忻州",
+                                "address": "山西省忻州市宁武县东寨镇春景洼乡麻地沟村",
+                                "level": "4A",
+                                "marketPrice": 120.0,
+                                "qunarPrice": 108.0
+                            },
+                            {
+                                "sightId": 37215,
+                                "name": "野狐岭要塞",
+                                "city": "张家口",
+                                "address": "河北省张家口市张北县张石高速出口油篓沟乡玻璃彩村",
+                                "level": "0A",
+                                "marketPrice": 39.0,
+                                "qunarPrice": 345.0
+                            },
+                            {
+                                "sightId": 186642,
+                                "name": "成吉思汗公园",
+                                "city": "呼和浩特",
+                                "address": "内蒙古自治区呼和浩特市新城区",
+                                "level": "0A",
+                                "marketPrice": 0.0,
+                                "qunarPrice": 355.0
+                            },
+                            {
+                                "sightId": 4741,
+                                "name": "内蒙古博物馆",
+                                "city": "呼和浩特",
+                                "address": "内蒙古呼和浩特市新城区新华东街27号",
+                                "level": "0A",
+                                "marketPrice": 0.0,
+                                "qunarPrice": 129.0
+                            },
+                            {
+                                "sightId": 832,
+                                "name": "鸡鸣山",
+                                "city": "张家口",
+                                "address": "河北省张家口市下花园区鸣山路南",
+                                "level": "4A",
+                                "marketPrice": 55.0,
+                                "qunarPrice": 48.0
+                            },
+                            {
+                                "sightId": 38726,
+                                "name": "阎锡山故居",
+                                "city": "忻州",
+                                "address": "山西省忻州市定襄县河边镇1号",
+                                "level": "4A",
+                                "marketPrice": 50.0,
+                                "qunarPrice": 44.9
+                            },
+                            {
+                                "sightId": 192466,
+                                "name": "苍鹭峰景区",
+                                "city": "石家庄",
+                                "address": "河北省石家庄市平山县合河口乡外大河村",
+                                "level": "0A",
+                                "marketPrice": 80.0,
+                                "qunarPrice": 158.0
+                            },
+                            {
+                                "sightId": 38003,
+                                "name": "野三坡鱼谷洞",
+                                "city": "保定",
+                                "address": "河北省保定市涞水县三坡镇马各庄村",
+                                "level": "4A",
+                                "marketPrice": 65.0,
+                                "qunarPrice": 139.0
+                            }
+                        ],
+                        "currentCityName": "张家口",
+                        "queryCityName": "",
+                        "userCoordinate": {
+                            "x": 40.076763,
+                            "y": 113.300129,
+                            "z": "NaN"
+                        },
+                        "userCityName": "大同"
+                    }
+                ],
+                "clickList": [
+                    {
+                        "actionTime": 1498834250638,
+                        "sourceName": "a_sy_search_menpiao_35",
+                        "currentName": "ticket_detail",
+                        "sightItemList": [
+                            {
+                                "sightId": 461105,
+                                "name": "大同方特欢乐世界",
+                                "city": "大同",
+                                "address": "山西省大同市御东新区南环东路与太和路交汇处方特欢乐世界",
+                                "level": "",
+                                "marketPrice": -1.0,
+                                "qunarPrice": -1.0,
+                                "commentCount": 0,
+                                "commentAvgScore": 0.0,
+                                "isInFavorite": false
+                            }
+                        ],
+                        "spuItem": {
+                            "spuId": ""
+                        },
+                        "productItem": {
+                            "productId": "",
+                            "tiltle": "",
+                            "qunarPrice": 0.0,
+                            "isInFavorite": false,
+                            "commentAvgScore": 0.0,
+                            "commentCount": 0
+                        },
+                        "currentCityName": "张家口",
+                        "ticketItem": {
+                            "sightId": 461105,
+                            "name": "大同方特欢乐世界",
+                            "city": "大同",
+                            "address": "山西省大同市御东新区南环东路与太和路交汇处方特欢乐世界",
+                            "level": "",
+                            "marketPrice": -1.0,
+                            "qunarPrice": -1.0
+                        },
+                        "commentCount": 0,
+                        "commentAvgScore": 0.0,
+                        "isInFavorite": false,
+                        "userCoordinate": {
+                            "x": 41.158142,
+                            "y": 114.71673,
+                            "z": "NaN"
+                        },
+                        "userCityName": "张家口"
+                    },
+                    {
+                        "actionTime": 1498834534221,
+                        "sourceName": "a_sy_search_menpiao_33",
+                        "currentName": "ticket_detail",
+                        "sightItemList": [
+                            {
+                                "sightId": 16172,
+                                "name": "北京欢乐谷",
+                                "city": "北京",
+                                "address": "北京市朝阳区东四环小武基北路",
+                                "level": "4A",
+                                "marketPrice": -1.0,
+                                "qunarPrice": -1.0,
+                                "commentCount": 0,
+                                "commentAvgScore": 0.0,
+                                "isInFavorite": false
+                            }
+                        ],
+                        "spuItem": {
+                            "spuId": ""
+                        },
+                        "productItem": {
+                            "productId": "",
+                            "tiltle": "",
+                            "qunarPrice": 0.0,
+                            "isInFavorite": false,
+                            "commentAvgScore": 0.0,
+                            "commentCount": 0
+                        },
+                        "currentCityName": "张家口",
+                        "ticketItem": {
+                            "sightId": 16172,
+                            "name": "北京欢乐谷",
+                            "city": "北京",
+                            "address": "北京市朝阳区东四环小武基北路",
+                            "level": "4A",
+                            "marketPrice": -1.0,
+                            "qunarPrice": -1.0
+                        },
+                        "commentCount": 0,
+                        "commentAvgScore": 0.0,
+                        "isInFavorite": false,
+                        "userCoordinate": {
+                            "x": 41.158142,
+                            "y": 114.71673,
+                            "z": "NaN"
+                        },
+                        "userCityName": "张家口"
+                    }
+                ],
+                "orderList": [],
+                "favoritesList": [],
+                "pvedList": [
+                    {
+                        "actionTime": 1498834238600,
+                        "keyword": "大同",
+                        "sourceName": "a_sy_search_menpiao_35",
+                        "currentName": "ticket_searchlist",
+                        "sightList": null,
+                        "currentCityName": "张家口",
+                        "queryCityName": "北京",
+                        "userCoordinate": {
+                            "x": 41.158142,
+                            "y": 114.71673,
+                            "z": "NaN"
+                        },
+                        "userCityName": "张家口"
+                    },
+                    {
+                        "actionTime": 1498834498000,
+                        "keyword": "亲子",
+                        "sourceName": "suggestion",
+                        "currentName": "ticket_newMoreList",
+                        "sightList": [
+                            {
+                                "sightId": 8246,
+                                "name": "云冈石窟",
+                                "city": "大同",
+                                "address": "山西省大同市城西约16公里的武州山南麓",
+                                "level": "5A",
+                                "marketPrice": 20.0,
+                                "qunarPrice": 125.0
+                            },
+                            {
+                                "sightId": 192530,
+                                "name": "法华寺",
+                                "city": "大同",
+                                "address": "山西省大同市城区和阳街",
+                                "level": "0A",
+                                "marketPrice": 20.0,
+                                "qunarPrice": 15.0
+                            },
+                            {
+                                "sightId": 192400,
+                                "name": "大同关帝庙",
+                                "city": "大同",
+                                "address": "山西省大同市城区鼓楼东街",
+                                "level": "0A",
+                                "marketPrice": 30.0,
+                                "qunarPrice": 20.0
+                            },
+                            {
+                                "sightId": 12965,
+                                "name": "雁门关",
+                                "city": "忻州",
+                                "address": "山西省忻州市代县雁门关景区",
+                                "level": "4A",
+                                "marketPrice": 90.0,
+                                "qunarPrice": 72.0
+                            },
+                            {
+                                "sightId": 4223,
+                                "name": "小五台金河",
+                                "city": "张家口",
+                                "address": "河北省张家口市蔚县常宁乡西金河口村",
+                                "level": "4A",
+                                "marketPrice": 78.0,
+                                "qunarPrice": 68.0
+                            },
+                            {
+                                "sightId": 4830,
+                                "name": "白石山世界地质公园",
+                                "city": "保定",
+                                "address": "河北省保定市涞源县城阁院路",
+                                "level": "5A",
+                                "marketPrice": 150.0,
+                                "qunarPrice": 140.0
+                            },
+                            {
+                                "sightId": 33713,
+                                "name": "蒙古文化风情园",
+                                "city": "呼和浩特",
+                                "address": "内蒙古省呼和浩特市玉泉区昭君路3公里处",
+                                "level": "0A",
+                                "marketPrice": 50.0,
+                                "qunarPrice": 59.0
+                            },
+                            {
+                                "sightId": 17848,
+                                "name": "万年冰洞",
+                                "city": "忻州",
+                                "address": "山西省忻州市宁武县东寨镇春景洼乡麻地沟村",
+                                "level": "4A",
+                                "marketPrice": 120.0,
+                                "qunarPrice": 108.0
+                            },
+                            {
+                                "sightId": 37215,
+                                "name": "野狐岭要塞",
+                                "city": "张家口",
+                                "address": "河北省张家口市张北县张石高速出口油篓沟乡玻璃彩村",
+                                "level": "0A",
+                                "marketPrice": 39.0,
+                                "qunarPrice": 345.0
+                            },
+                            {
+                                "sightId": 186642,
+                                "name": "成吉思汗公园",
+                                "city": "呼和浩特",
+                                "address": "内蒙古自治区呼和浩特市新城区",
+                                "level": "0A",
+                                "marketPrice": 0.0,
+                                "qunarPrice": 355.0
+                            },
+                            {
+                                "sightId": 4741,
+                                "name": "内蒙古博物馆",
+                                "city": "呼和浩特",
+                                "address": "内蒙古呼和浩特市新城区新华东街27号",
+                                "level": "0A",
+                                "marketPrice": 0.0,
+                                "qunarPrice": 129.0
+                            },
+                            {
+                                "sightId": 832,
+                                "name": "鸡鸣山",
+                                "city": "张家口",
+                                "address": "河北省张家口市下花园区鸣山路南",
+                                "level": "4A",
+                                "marketPrice": 55.0,
+                                "qunarPrice": 48.0
+                            },
+                            {
+                                "sightId": 38726,
+                                "name": "阎锡山故居",
+                                "city": "忻州",
+                                "address": "山西省忻州市定襄县河边镇1号",
+                                "level": "4A",
+                                "marketPrice": 50.0,
+                                "qunarPrice": 44.9
+                            },
+                            {
+                                "sightId": 192466,
+                                "name": "苍鹭峰景区",
+                                "city": "石家庄",
+                                "address": "河北省石家庄市平山县合河口乡外大河村",
+                                "level": "0A",
+                                "marketPrice": 80.0,
+                                "qunarPrice": 158.0
+                            },
+                            {
+                                "sightId": 38003,
+                                "name": "野三坡鱼谷洞",
+                                "city": "保定",
+                                "address": "河北省保定市涞水县三坡镇马各庄村",
+                                "level": "4A",
+                                "marketPrice": 65.0,
+                                "qunarPrice": 139.0
+                            }
+                        ],
+                        "currentCityName": "张家口",
+                        "queryCityName": "",
+                        "userCoordinate": {
+                            "x": 40.076763,
+                            "y": 113.300129,
+                            "z": "NaN"
+                        },
+                        "userCityName": "大同"
+                    }
+                ],
+                "clickedList": [
+                    {
+                        "actionTime": 1498834250638,
+                        "sourceName": "a_sy_search_menpiao_35",
+                        "currentName": "ticket_detail",
+                        "sightItemList": [
+                            {
+                                "sightId": 461105,
+                                "name": "大同方特欢乐世界",
+                                "city": "大同",
+                                "address": "山西省大同市御东新区南环东路与太和路交汇处方特欢乐世界",
+                                "level": "",
+                                "marketPrice": -1.0,
+                                "qunarPrice": -1.0,
+                                "commentCount": 0,
+                                "commentAvgScore": 0.0,
+                                "isInFavorite": false
+                            }
+                        ],
+                        "spuItem": {
+                            "spuId": ""
+                        },
+                        "productItem": {
+                            "productId": "",
+                            "tiltle": "",
+                            "qunarPrice": 0.0,
+                            "isInFavorite": false,
+                            "commentAvgScore": 0.0,
+                            "commentCount": 0
+                        },
+                        "currentCityName": "张家口",
+                        "ticketItem": {
+                            "sightId": 461105,
+                            "name": "大同方特欢乐世界",
+                            "city": "大同",
+                            "address": "山西省大同市御东新区南环东路与太和路交汇处方特欢乐世界",
+                            "level": "",
+                            "marketPrice": -1.0,
+                            "qunarPrice": -1.0
+                        },
+                        "commentCount": 0,
+                        "commentAvgScore": 0.0,
+                        "isInFavorite": false,
+                        "userCoordinate": {
+                            "x": 41.158142,
+                            "y": 114.71673,
+                            "z": "NaN"
+                        },
+                        "userCityName": "张家口"
+                    },
+                    {
+                        "actionTime": 1498834534221,
+                        "sourceName": "a_sy_search_menpiao_33",
+                        "currentName": "ticket_detail",
+                        "sightItemList": [
+                            {
+                                "sightId": 16172,
+                                "name": "北京欢乐谷",
+                                "city": "北京",
+                                "address": "北京市朝阳区东四环小武基北路",
+                                "level": "4A",
+                                "marketPrice": -1.0,
+                                "qunarPrice": -1.0,
+                                "commentCount": 0,
+                                "commentAvgScore": 0.0,
+                                "isInFavorite": false
+                            }
+                        ],
+                        "spuItem": {
+                            "spuId": ""
+                        },
+                        "productItem": {
+                            "productId": "",
+                            "tiltle": "",
+                            "qunarPrice": 0.0,
+                            "isInFavorite": false,
+                            "commentAvgScore": 0.0,
+                            "commentCount": 0
+                        },
+                        "currentCityName": "张家口",
+                        "ticketItem": {
+                            "sightId": 16172,
+                            "name": "北京欢乐谷",
+                            "city": "北京",
+                            "address": "北京市朝阳区东四环小武基北路",
+                            "level": "4A",
+                            "marketPrice": -1.0,
+                            "qunarPrice": -1.0
+                        },
+                        "commentCount": 0,
+                        "commentAvgScore": 0.0,
+                        "isInFavorite": false,
+                        "userCoordinate": {
+                            "x": 41.158142,
+                            "y": 114.71673,
+                            "z": "NaN"
+                        },
+                        "userCityName": "张家口"
+                    }
+                ],
+                "orderedList": [],
+                "bookedList": null,
+                "historyLists": [
+                    [
+                        {
+                            "actionTime": 1498834238600,
+                            "keyword": "大同",
+                            "sourceName": "a_sy_search_menpiao_35",
+                            "currentName": "ticket_searchlist",
+                            "sightList": null,
+                            "currentCityName": "张家口",
+                            "queryCityName": "北京",
+                            "userCoordinate": {
+                                "x": 41.158142,
+                                "y": 114.71673,
+                                "z": "NaN"
+                            },
+                            "userCityName": "张家口"
+                        },
+                        {
+                            "actionTime": 1498834498000,
+                            "keyword": "亲子",
+                            "sourceName": "suggestion",
+                            "currentName": "ticket_newMoreList",
+                            "sightList": [
+                                {
+                                    "sightId": 8246,
+                                    "name": "云冈石窟",
+                                    "city": "大同",
+                                    "address": "山西省大同市城西约16公里的武州山南麓",
+                                    "level": "5A",
+                                    "marketPrice": 20.0,
+                                    "qunarPrice": 125.0
+                                },
+                                {
+                                    "sightId": 192530,
+                                    "name": "法华寺",
+                                    "city": "大同",
+                                    "address": "山西省大同市城区和阳街",
+                                    "level": "0A",
+                                    "marketPrice": 20.0,
+                                    "qunarPrice": 15.0
+                                },
+                                {
+                                    "sightId": 192400,
+                                    "name": "大同关帝庙",
+                                    "city": "大同",
+                                    "address": "山西省大同市城区鼓楼东街",
+                                    "level": "0A",
+                                    "marketPrice": 30.0,
+                                    "qunarPrice": 20.0
+                                },
+                                {
+                                    "sightId": 12965,
+                                    "name": "雁门关",
+                                    "city": "忻州",
+                                    "address": "山西省忻州市代县雁门关景区",
+                                    "level": "4A",
+                                    "marketPrice": 90.0,
+                                    "qunarPrice": 72.0
+                                },
+                                {
+                                    "sightId": 4223,
+                                    "name": "小五台金河",
+                                    "city": "张家口",
+                                    "address": "河北省张家口市蔚县常宁乡西金河口村",
+                                    "level": "4A",
+                                    "marketPrice": 78.0,
+                                    "qunarPrice": 68.0
+                                },
+                                {
+                                    "sightId": 4830,
+                                    "name": "白石山世界地质公园",
+                                    "city": "保定",
+                                    "address": "河北省保定市涞源县城阁院路",
+                                    "level": "5A",
+                                    "marketPrice": 150.0,
+                                    "qunarPrice": 140.0
+                                },
+                                {
+                                    "sightId": 33713,
+                                    "name": "蒙古文化风情园",
+                                    "city": "呼和浩特",
+                                    "address": "内蒙古省呼和浩特市玉泉区昭君路3公里处",
+                                    "level": "0A",
+                                    "marketPrice": 50.0,
+                                    "qunarPrice": 59.0
+                                },
+                                {
+                                    "sightId": 17848,
+                                    "name": "万年冰洞",
+                                    "city": "忻州",
+                                    "address": "山西省忻州市宁武县东寨镇春景洼乡麻地沟村",
+                                    "level": "4A",
+                                    "marketPrice": 120.0,
+                                    "qunarPrice": 108.0
+                                },
+                                {
+                                    "sightId": 37215,
+                                    "name": "野狐岭要塞",
+                                    "city": "张家口",
+                                    "address": "河北省张家口市张北县张石高速出口油篓沟乡玻璃彩村",
+                                    "level": "0A",
+                                    "marketPrice": 39.0,
+                                    "qunarPrice": 345.0
+                                },
+                                {
+                                    "sightId": 186642,
+                                    "name": "成吉思汗公园",
+                                    "city": "呼和浩特",
+                                    "address": "内蒙古自治区呼和浩特市新城区",
+                                    "level": "0A",
+                                    "marketPrice": 0.0,
+                                    "qunarPrice": 355.0
+                                },
+                                {
+                                    "sightId": 4741,
+                                    "name": "内蒙古博物馆",
+                                    "city": "呼和浩特",
+                                    "address": "内蒙古呼和浩特市新城区新华东街27号",
+                                    "level": "0A",
+                                    "marketPrice": 0.0,
+                                    "qunarPrice": 129.0
+                                },
+                                {
+                                    "sightId": 832,
+                                    "name": "鸡鸣山",
+                                    "city": "张家口",
+                                    "address": "河北省张家口市下花园区鸣山路南",
+                                    "level": "4A",
+                                    "marketPrice": 55.0,
+                                    "qunarPrice": 48.0
+                                },
+                                {
+                                    "sightId": 38726,
+                                    "name": "阎锡山故居",
+                                    "city": "忻州",
+                                    "address": "山西省忻州市定襄县河边镇1号",
+                                    "level": "4A",
+                                    "marketPrice": 50.0,
+                                    "qunarPrice": 44.9
+                                },
+                                {
+                                    "sightId": 192466,
+                                    "name": "苍鹭峰景区",
+                                    "city": "石家庄",
+                                    "address": "河北省石家庄市平山县合河口乡外大河村",
+                                    "level": "0A",
+                                    "marketPrice": 80.0,
+                                    "qunarPrice": 158.0
+                                },
+                                {
+                                    "sightId": 38003,
+                                    "name": "野三坡鱼谷洞",
+                                    "city": "保定",
+                                    "address": "河北省保定市涞水县三坡镇马各庄村",
+                                    "level": "4A",
+                                    "marketPrice": 65.0,
+                                    "qunarPrice": 139.0
+                                }
+                            ],
+                            "currentCityName": "张家口",
+                            "queryCityName": "",
+                            "userCoordinate": {
+                                "x": 40.076763,
+                                "y": 113.300129,
+                                "z": "NaN"
+                            },
+                            "userCityName": "大同"
+                        }
+                    ],
+                    [
+                        {
+                            "actionTime": 1498834250638,
+                            "sourceName": "a_sy_search_menpiao_35",
+                            "currentName": "ticket_detail",
+                            "sightItemList": [
+                                {
+                                    "sightId": 461105,
+                                    "name": "大同方特欢乐世界",
+                                    "city": "大同",
+                                    "address": "山西省大同市御东新区南环东路与太和路交汇处方特欢乐世界",
+                                    "level": "",
+                                    "marketPrice": -1.0,
+                                    "qunarPrice": -1.0,
+                                    "commentCount": 0,
+                                    "commentAvgScore": 0.0,
+                                    "isInFavorite": false
+                                }
+                            ],
+                            "spuItem": {
+                                "spuId": ""
+                            },
+                            "productItem": {
+                                "productId": "",
+                                "tiltle": "",
+                                "qunarPrice": 0.0,
+                                "isInFavorite": false,
+                                "commentAvgScore": 0.0,
+                                "commentCount": 0
+                            },
+                            "currentCityName": "张家口",
+                            "ticketItem": {
+                                "sightId": 461105,
+                                "name": "大同方特欢乐世界",
+                                "city": "大同",
+                                "address": "山西省大同市御东新区南环东路与太和路交汇处方特欢乐世界",
+                                "level": "",
+                                "marketPrice": -1.0,
+                                "qunarPrice": -1.0
+                            },
+                            "commentCount": 0,
+                            "commentAvgScore": 0.0,
+                            "isInFavorite": false,
+                            "userCoordinate": {
+                                "x": 41.158142,
+                                "y": 114.71673,
+                                "z": "NaN"
+                            },
+                            "userCityName": "张家口"
+                        },
+                        {
+                            "actionTime": 1498834534221,
+                            "sourceName": "a_sy_search_menpiao_33",
+                            "currentName": "ticket_detail",
+                            "sightItemList": [
+                                {
+                                    "sightId": 16172,
+                                    "name": "北京欢乐谷",
+                                    "city": "北京",
+                                    "address": "北京市朝阳区东四环小武基北路",
+                                    "level": "4A",
+                                    "marketPrice": -1.0,
+                                    "qunarPrice": -1.0,
+                                    "commentCount": 0,
+                                    "commentAvgScore": 0.0,
+                                    "isInFavorite": false
+                                }
+                            ],
+                            "spuItem": {
+                                "spuId": ""
+                            },
+                            "productItem": {
+                                "productId": "",
+                                "tiltle": "",
+                                "qunarPrice": 0.0,
+                                "isInFavorite": false,
+                                "commentAvgScore": 0.0,
+                                "commentCount": 0
+                            },
+                            "currentCityName": "张家口",
+                            "ticketItem": {
+                                "sightId": 16172,
+                                "name": "北京欢乐谷",
+                                "city": "北京",
+                                "address": "北京市朝阳区东四环小武基北路",
+                                "level": "4A",
+                                "marketPrice": -1.0,
+                                "qunarPrice": -1.0
+                            },
+                            "commentCount": 0,
+                            "commentAvgScore": 0.0,
+                            "isInFavorite": false,
+                            "userCoordinate": {
+                                "x": 41.158142,
+                                "y": 114.71673,
+                                "z": "NaN"
+                            },
+                            "userCityName": "张家口"
+                        }
+                    ],
+                    null,
+                    [],
+                    []
+                ],
+                "empty": false
+            }
+        },
+        "valid": true,
+        "empty": false
+    }
+}
