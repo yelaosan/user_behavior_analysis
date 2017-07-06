@@ -1,17 +1,35 @@
 var _ = require('underscore');
+var moment = require('moment');
 var TB = require('bootstrap-table');
 var user_behavior = require('./user_behavior.json');
-var table_data = require('./table_data.json');
 
 var allAistoryLists = [];
-_.each(user_behavior.data.businessHistoriesMap, function(item) {
-	allAistoryLists.push(item.historyLists);
+_.each(user_behavior.data.businessHistoriesMap, function(item, key) {
+	item.type = key;
+	
+	allAistoryLists.push(_.map(_.flatten(_.compact(item.historyLists)), function(ite){
+		ite.type = key;
+		return ite;
+	}));
 })
-var res = _.compact(_.sortBy(_.flatten(allAistoryLists),'actionTime'));
+var res = _.sortBy(_.flatten(allAistoryLists),'actionTime');
+
+// 请求远端
+// $.get('http://120.76.31.111/app/XhlGetSubjectTypeList', function(data){console.log(data)})
 
 // 将非actionTime或currentCityName的字段塞入others字段
 _.each(res, function(item, key) {
-	item.others = JSON.stringify(_.omit(item, 'actionTime', 'currentCityName'));
+	item.actionTime = moment(item.actionTime).format('YYYY-MM-DD HH:mm:ss');
+
+	var type = item.type;
+	var others;
+	if(type === 'HOTEL') {
+		item.others = JSON.stringify(_.pick(item, 'pvedHotels','checkInCityName','checkInDate','userCoordinate')).replace(/[\{\}\"]/g, '');
+	}else if (type === 'TICKET') {
+		item.others = JSON.stringify(_.pick(item, 'keyword','currentName')).replace(/[\{\}\"]/g, '');
+	}else if (type === 'VACATION') {
+		item.others = JSON.stringify(_.pick(item, 'depCityName', 'query')).replace(/[\{\}\"]/g, '');
+	};
 })
 
 $('#table').bootstrapTable({
