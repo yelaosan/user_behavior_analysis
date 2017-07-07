@@ -15,7 +15,7 @@ _.each(user_behavior.data.businessHistoriesMap, function(item, key) {
 var res = _.sortBy(_.flatten(allAistoryLists),'actionTime');
 
 // 请求远端
-// $.get('http://120.76.31.111/app/XhlGetSubjectTypeList', function(data){console.log(data)})
+$.get('https://free-api.heweather.com/v5/weather?city=%E5%8C%97%E4%BA%AC&key=06b7f31d7d9c45acadf4fc30ba8ec9ce', function(data){console.log(data)})
 
 // 将非actionTime或currentCityName的字段塞入others字段
 _.each(res, function(item, key) {

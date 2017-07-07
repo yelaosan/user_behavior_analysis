@@ -23,8 +23,15 @@ module.exports = {
   ],
 
   devServer: {
-    historyApiFallback: true,
-    inline: true,
-    hot: true
-  }
+      historyApiFallback: true,
+      hot: true,
+      inline: true,
+      stats: { colors: true },
+      proxy: {
+          '/': {
+            target: 'https://free-api.heweather.com',
+            changeOrigin: true
+          }
+      }
+  },
 }
