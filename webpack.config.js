@@ -28,10 +28,12 @@ module.exports = {
       inline: true,
       stats: { colors: true },
       proxy: {
-          '/': {
-            target: 'https://free-api.heweather.com',
-            changeOrigin: true
-          }
+            // 请求到 '/device' 下 的请求都会被代理到 target： http://debug.xxx.com 中
+            '*': { 
+                target: 'http://searchtouch.qunar.com',
+                secure: false, // 接受 运行在 https 上的服务
+                changeOrigin: true
+            }
       }
-  },
+  }
 }

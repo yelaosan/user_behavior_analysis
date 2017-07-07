@@ -15,7 +15,12 @@ _.each(user_behavior.data.businessHistoriesMap, function(item, key) {
 var res = _.sortBy(_.flatten(allAistoryLists),'actionTime');
 
 // 请求远端
-$.get('https://free-api.heweather.com/v5/weather?city=%E5%8C%97%E4%BA%AC&key=06b7f31d7d9c45acadf4fc30ba8ec9ce', function(data){console.log(data)})
+// $.post('http://searchtouch.qunar.com/pe/queryPeInfo.json?query=%E5%8C%97%E4%BA%AC&page=place.summary&cat=&systemType=Android&commonParams=', function(data){
+// 	console.log(data)
+// });
+$.post('/pe/queryPeInfo.json?query=%E5%8C%97%E4%BA%AC&page=place.summary&cat=&systemType=Android&commonParams=', function(data){
+	console.log(data)
+});
 
 // 将非actionTime或currentCityName的字段塞入others字段
 _.each(res, function(item, key) {
