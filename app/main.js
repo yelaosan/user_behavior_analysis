@@ -18,9 +18,15 @@ var res = _.sortBy(_.flatten(allAistoryLists),'actionTime');
 // $.post('http://searchtouch.qunar.com/pe/queryPeInfo.json?query=%E5%8C%97%E4%BA%AC&page=place.summary&cat=&systemType=Android&commonParams=', function(data){
 // 	console.log(data)
 // });
-$.post('/pe/queryPeInfo.json?query=%E5%8C%97%E4%BA%AC&page=place.summary&cat=&systemType=Android&commonParams=', function(data){
-	console.log(data)
-});
+
+var fetch = function(query) {
+	$.post('/pe/queryPeInfo.json?query=%E5%8C%97%E4%BA%AC&page=place.summary&cat=&systemType=Android&commonParams=&xx=' + query || '', function(data){
+		console.log(data)
+	});
+};
+
+fetch();
+
 
 // 将非actionTime或currentCityName的字段塞入others字段
 _.each(res, function(item, key) {
@@ -39,4 +45,9 @@ _.each(res, function(item, key) {
 
 $('#table').bootstrapTable({
     data: res
+});
+
+// 绑定点击事件
+$('.search-btn').click(function() {
+	fetch($('.input').val());
 });
