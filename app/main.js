@@ -51,3 +51,10 @@ $('#table').bootstrapTable({
 $('.search-btn').click(function() {
 	fetch($('.input').val());
 });
+
+// 输入框enter事件
+$('.input').keydown(function(e) {
+	if (e.keyCode === '13') {
+		fetch(this.val());
+	};
+});
